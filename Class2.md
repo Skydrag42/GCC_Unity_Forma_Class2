@@ -56,7 +56,7 @@ Don't forget to keep your hierarchy organized or you'll have a hard time finding
 
 ### Setting colliders
 
-Test the scene, and try bumping into a tree. Oh, *flûte*! You go right through them.
+Test the scene, and try bumping into a tree. Oh, *flÃ»te*! You go right through them.
 That's because we haven't set any colliders for the objects.
 
 To do so, we have to go to the import settings of the models. 
@@ -368,4 +368,10 @@ You could make a mushroom prefab out of primitives, and try to make it disappear
 
 See you later!
 
+---
+
 *course by Julien Charvet for GCC*
+
+[previous class](https://github.com/Skydrag42/GCC_Unity_Forma_Class1/)
+||
+[next class](https://github.com/Skydrag42/GCC_Unity_Forma_Class3/)
